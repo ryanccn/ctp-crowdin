@@ -1,10 +1,10 @@
 /* ==UserStyle== 
 @name           Crowdin Catppuccin
-@namespace      github.com/ryanccn/ctp-crowdin
+@namespace      github.com/catppuccin/crowdin
 @version        0.0.1
 @description    Soothing pastel theme for Crowdin
 @author         Catppuccin
-@updateURL      https://github.com/ryanccn/ctp-crowdin/raw/main/catppuccin.user.css
+@updateURL      https://github.com/catppuccin/crowdin/raw/main/catppuccin.user.css
 @preprocessor   stylus
 @var select theme "Theme" ["Latte", "Frappe", "Macchiato", "Mocha*"]
 ==/UserStyle== */
